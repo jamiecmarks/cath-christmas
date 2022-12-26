@@ -1,6 +1,13 @@
 body {
+    padding: 0px;
+    margin: 0px;
+}
+
+.background-image {
     background-image: url("pictures/cats.jpg");
-    background-size: contain;
-    width: 800px;
-    height: auto;
+    background-size: cover;
+    height: 100vh;
+    background-repeat: no-repeat;
+    padding: 0px;
+    margin: 0px;
 }
