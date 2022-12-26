@@ -1,5 +1,6 @@
 body {
     background-image: url("pictures/cats.jpg");
-    width: 100%;
+    background-size: contain;
+    width: 800px;
     height: auto;
 }
